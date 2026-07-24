@@ -121,13 +121,14 @@ WHERE emp_id = 2;
 
 ## ▶️ How to Run This
 
-1. Go to [DB Fiddle](https://www.db-fiddle.com/f/uMZUrVdYg1sQXZkaWdoneY/0#&togetherjs=dw9fzlG0Hu/)
+1. Go to [DB Fiddle](https://www.db-fiddle.com/f/uMZUrVdYg1sQXZkaWdoneY/0#&togetherjs=dw9fzlG0Hu/). 
 2. Paste any `SELECT`, `UPDATE`, or `DELETE` statement from Sections 2–4 into the **Query** panel and click **Run**
 3. Run a `SELECT * FROM employees;` between steps to see how the data changes
 
 ## ✅ Summary
 
 | Concept | Demonstrated By |
+|---|---|
 | Inserting data (full & partial) | Section 1 |
 | Detecting NULLs correctly | `IS NULL` / `IS NOT NULL` |
 | Defaulting NULLs safely | `COALESCE()` |
