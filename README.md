@@ -1,5 +1,7 @@
 # Task-2-Data-Insertion-and-Handling-Nulls
-A practical SQL exercise demonstrating how to correctly **insert, update, delete, and handle NULL values** using a realistic `employees` table. Built and tested on [DB Fiddle](https://www.db-fiddle.com/).
+A practical SQL exercise demonstrating how to correctly **insert, update, delete, and handle NULL values** using a realistic `employees` table.
+### Tool use- DB Fiddle 
+Check- [Code](https://www.db-fiddle.com/f/uMZUrVdYg1sQXZkaWdoneY/0#&togetherjs=dw9fzlG0Hu/)
 
 ## 📋 Table Overview
 
